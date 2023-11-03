@@ -1,0 +1,20 @@
+/* Fill CSS here */
+#exp,#email,#mbl,#department,#employeeID,#name{
+    width: 200px;
+}
+#btn{
+    width: 200px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+}
+div{
+    display: flex;
+   
+}
+thead>tr>th{
+   padding: 10px;
+    
+    background-color: blue;
+    color: white;
+}
